@@ -55,7 +55,7 @@ const about = {
   imageSize: 375,
   message:
     "Teknologi telah mengubah segalanya. Dan teknologi masa depan akan mengubah segalanya yang ada hari ini.",
-  resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
+  resume: "",
 };
 
 // PROJECTS SECTION

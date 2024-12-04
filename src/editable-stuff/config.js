@@ -50,7 +50,7 @@ const mainBody = {
 
 const about = {
   show: true,
-  heading: "About Me",
+  heading: "About",
   imageLink: require("../editable-stuff/IMG_20240723_135027_992.jpg"),
   imageSize: 375,
   message:

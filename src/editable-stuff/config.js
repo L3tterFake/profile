@@ -37,13 +37,13 @@ const mainBody = {
 // ABOUT SECTION
 // If you want the About Section to show a profile picture you can fill the profilePictureLink either with:
 //a) your Instagram username
-    i.e:profilePictureLink:"l3ttsecid",
+//    i.e:profilePictureLink:"l3ttsecid",
 //b) a link to an hosted image
-    i.e:profilePictureLink:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_bSBbNlq2ICEq16-5SEAAeSzojJ4U3OKm541Z5msmYJE0bzrYT2HV8rA9UKuOvY654PwpUOWJSPv4MF-zVpJXfG-LsVOUHp7Dnmae9b0yT9n5k1kaP6A0aRmx4N4ILI/s113/zero.jpg",
+//    i.e:profilePictureLink:"https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgA_bSBbNlq2ICEq16-5SEAAeSzojJ4U3OKm541Z5msmYJE0bzrYT2HV8rA9UKuOvY654PwpUOWJSPv4MF-zVpJXfG-LsVOUHp7Dnmae9b0yT9n5k1kaP6A0aRmx4N4ILI/s113/zero.jpg",
 //c) image in "editable-stuff" directory and use require("") to import here,
-    i.e: profilePictureLink: require("../editable-stuff/IMG_20240723_135027_992.jpg"),
+ //   i.e: profilePictureLink: require("../editable-stuff/IMG_20240723_135027_992.jpg"),
 //d) If you do not want any picture to be displayed, just leave it empty :)
-    i.e: profilePictureLink: "",
+//    i.e: profilePictureLink: "",
 // For Resume either provide link to your resume or import from "editable-stuff" directory
 //     i.e resume: require("../editable-stuff/resume.pdf"),
 //         resume: "https://docs.google.com/document/d/13_PWdhThMr6roxb-UFiJj4YAFOj8e_bv3Vx9UHQdyBQ/edit?usp=sharing",
